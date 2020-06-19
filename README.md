@@ -5,7 +5,7 @@ url: http://0.0.0.0:8001
 
 ### Login
 
-email: youremail@email.com
-user: admin
-password: password
+email: youremail@email.com  
+user: admin  
+password: password  
 
